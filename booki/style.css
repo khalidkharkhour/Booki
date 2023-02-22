@@ -289,7 +289,7 @@ position: absolute;
             background: linear-gradient(to right, var(--main-color), var(--second-color));
             position: absolute;
             top: 426px;
-            left: 40px;
+            left: 30px;
             width: 880px;
             height: 626px;
             border-radius: 20px;
@@ -342,7 +342,7 @@ position: absolute;
           background: linear-gradient(to right, var(--main-color), var(--second-color));
           position: absolute;
           top: 427px; 
-          left: 940px;
+          left: 920px;
           width: 350px;
           height: 500px;
           border-radius: 20px;
@@ -364,7 +364,7 @@ position: absolute;
         .card3{
           box-shadow: 0 4px 8px 0  rgba(0, 0, 0, 0.2);
           text-align: center;
-          border-radius: 20px 20px 0px 0px;
+          border-radius: 20px 20px 20px 20px;
 
         ;
         }
@@ -386,22 +386,22 @@ border-radius: 20px 20px 0px 0px;
         
         .postionimg3{
           position: absolute;
-          left: 50px;
+          left: 20px;
           top: 1160.49px;
         }
         .postionimg4{
           position: absolute;
-          left: 370px;
+          left: 335px;
           top: 1160.49px;
         }
         .postionimg5{
           position: absolute;
-          left: 690px;
+          left: 645px;
           top: 1160.49px;
         }
         .postionimg6{
           position: absolute;
-          left: 1010px;
+          left: 955px;
           top: 1160.49px;
         }
 
@@ -519,8 +519,8 @@ position: absolute;
 
 .footer {
   position: absolute;
-  top: 1700px;
-  left: 50px;
+  top: 1740px;
+  left: 20px;
   width: 100%;
   background: #f2f2f2;
   color:  #000000;
@@ -528,7 +528,7 @@ position: absolute;
   text-align: center;
   padding: 10px 0px;
   height: 220px;
-  width: 1270px
+  width: 1237px
   
   
 
